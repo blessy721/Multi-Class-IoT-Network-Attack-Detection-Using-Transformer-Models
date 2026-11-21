@@ -80,16 +80,24 @@ The project explores **TabTransformer and FT-Transformer** architectures to anal
 - 🎯 Improve detection of underrepresented attack categories.
 - 🔧 Investigate hyperparameter optimization.
 - 🌐 Explore deployment in resource-constrained IoT environments.
-👩‍💻 About the Author
 
-Blessy Jefrina H
+---
 
-B.E. (Computer Science and Engineering)
-M.Tech. (Information Technology – Cyber Security)
-Postgraduate Scholar
+## 👩‍💻 About the Author
+
+<p align="center">
+  <b>Blessy Jefrina H</b>
+  <br/><br/>
+  B.E. (Computer Science and Engineering)
+  <br/>
+  M.Tech. (Information Technology – Cyber Security)
+  <br/>
+  <b>Postgraduate Scholar</b>
+</p>
 
 <p align="center">
   <b>💙 Learn • Build • Secure • Innovate 💙</b>
   <br/>
   <i>Exploring intelligent approaches to a safer connected world.</i>
-</p>
+</p> 
+
