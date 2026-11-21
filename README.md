@@ -83,8 +83,11 @@ The project explores **TabTransformer and FT-Transformer** architectures to anal
 
 ### 👩‍💻 About the Researcher
 
-**Blessy Jefrina H**
+Blessy Jefrina H
 
+B.E. (Computer Science and Engineering)
+M.Tech. (Information Technology – Cyber Security)
+Postgraduate Scholar
 
 <p align="center">
   <b>💙 Learn • Build • Secure • Innovate 💙</b>
